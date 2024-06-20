@@ -2,7 +2,9 @@
 
 ## 🎯 Introduce the Topic and Its Objectives
 📱 Mobile Topup (Topup service) is one of MoMo's most important services with a large proportion of users and revenue. Topup service on the MoMo app is displayed under two icons: 'Nạp tiền điện thoại' and 'Mua mã thẻ di động'.
+
 🔍 This analysis will focus on exploring and analyzing the dataset from the "MoMo Talent 2024" competition. 
+
 🎯 The goal of this analysis is to uncover trends, patterns, and correlations between the variables in the dataset, thereby providing valuable recommendations for the business. Understanding this data not only helps optimize MoMo's business operations but also enhances user experience through more personalized services.
 
 
