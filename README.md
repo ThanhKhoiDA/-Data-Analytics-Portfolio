@@ -93,7 +93,7 @@ Thank you for checking out my Telco Customer Churn Project. For more details or 
 
 Best regards,
 
-Ngo Thanh Khoi
+Ngo Thanh Khoi vbvcbcvb
 
 
 
