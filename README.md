@@ -77,8 +77,8 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 | Vietnamobile | 1 | 3 |
 | Gmobile | 1 | 3 |
 
-    - How does this affect the service (Comment from many perspectives)? Do you agree with this option?
-       - Analysis from Multiple Perspectives
+- How does this affect the service (Comment from many perspectives)? Do you agree with this option?
+  ⚖️ Analysis from Multiple Perspectives
 
 
 
