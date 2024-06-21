@@ -130,7 +130,7 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
  
  📋 A typical example is that Techcombank has a 1% cashback offer on all card transactions applicable to all card types and all customers long ago. Up to now, Techcombank has eliminated this incentive and replaced it with other new incentives to both retain customers and optimize its profits.
 
-## 💡 What other Topup development strategy ideas do you have for MoMo?
+## 💡 Topup Development Strategy Ideas for MoMo
 ### 1️⃣ Loyalty Programs
 - Develop a tiered loyalty program offering increasing benefits based on user activity levels.
 ### 2️⃣ Partnerships with Merchants
