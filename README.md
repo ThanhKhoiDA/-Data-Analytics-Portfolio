@@ -40,7 +40,7 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 - Developed various charts, graphs, and other visual representations (e.g., bar charts, pie charts, scatter plots) to illustrate findings.
 - Used slicers and filters in Power BI to allow interactive exploration of the data.
 - Dashboard TOP-UP PERFORMANCE
-  [image](https://github.com/ThanhKhoiDA/Data-Analytics-Portfolio/assets/173327129/bff8564b-f0c4-4dfe-a26a-16dd7dfac241)
+  ![image1](https://github.com/ThanhKhoiDA/Data-Analytics-Portfolio/assets/173327129/bff8564b-f0c4-4dfe-a26a-16dd7dfac241)
 
 ## 💡 Observations and Insights
 ### 👨‍👩‍👧‍👦 User Demographics
