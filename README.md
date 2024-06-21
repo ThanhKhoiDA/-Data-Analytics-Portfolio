@@ -65,10 +65,11 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 ### 👫 Referral and Loyalty Programs
 - Create refer-a-friend and loyalty programs to encourage existing users to refer friends and deposit regularly.
 
-## 🏇 Compete for cashback with other e-wallets
+## 🏇 Compete for Cashback with Other E-wallets
 ### 🚨 Momo is facing stiff competition from a host of other e-wallets that have deep mobile card cashback schemes for users. In response, MoMo is considering deducting a part of revenue to increase cashback for users in all Telco merchants.
 - Suppose that users currently earn a flat 1% cash-back on their spending amount. The proposed change is as follows:
-- | Merchant | % cashback (current) | % cashback (proposal) |
+
+| Merchant | % cashback (current) | % cashback (proposal) |
 | :--- | :--- | :--- | 
 | Viettel | 1 | 2 |
 | Mobifone | 1 | 2.5 |
