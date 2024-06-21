@@ -39,6 +39,9 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 - Create a layout of key metrics including "Total Amount", "Revenune", "Total Orders" in large sizes on the left side of the dashboard.
 - Developed various charts, graphs, and other visual representations (e.g., bar charts, pie charts, scatter plots) to illustrate findings.
 - Used slicers and filters in Power BI to allow interactive exploration of the data.
+- Dashboard TOP-UP PERFORMANCE
+  [image](https://github.com/ThanhKhoiDA/Data-Analytics-Portfolio/assets/173327129/bff8564b-f0c4-4dfe-a26a-16dd7dfac241)
+
 ## 💡 Observations and Insights
 ### 👨‍👩‍👧‍👦 User Demographics
 - **🎂 Age Distribution**
@@ -127,7 +130,7 @@ For example: discounts when shopping at partner stores, or special offers when u
 ### 4️⃣ Educational Campaigns
 - Strengthen educational campaigns about the benefits of using e-wallets, especially targeting users who are new to technology. Organize online or offline seminars to introduce and instruct on how to use MoMo.
 ### 5️⃣ Gamification
-- Áp dụng yếu tố game hóa vào ứng dụng để tăng sự tương tác của người dùng. Ví dụ: các thử thách hàng ngày/tuần với phần thưởng khi hoàn thành, hoặc chương trình tích điểm đổi quà.
+- Introduce gamification elements such as challenges and rewards for frequent top-ups.
 ### 6️⃣ User Feedback Loop
 - Implement a feedback mechanism to gather user input on desired features and improvements.
 ### 7️⃣ Data-Driven Personalization
