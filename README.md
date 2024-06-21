@@ -50,8 +50,36 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 ### 📢 Transaction Behavior
 - **📺 Revenue by Merchant:** Viettel leads in average monthly revenue (596,033 VND), followed by Mobifone and Vinaphone. Gmobile has the lowest revenue.
 - **🏡 Location-Based Transaction Amount:** Users in other regions (besides HCMC and Hanoi) tend to spend more, especially the age group from 23-27. Meanwhile, HCMC and Hanoi have lower but still significant spending levels.
+- **🔠User Type:** The proportion of "NEW" accounts for 99.27% ​​of the total. Customer only used it once and has not used it again.
+   - ⚠️ **THE SERVICE MAY HAVE ERRORS, BAD POINTS, OR POOR CUSTOMER CARE DURING USE** 
 
-## 🔔
+## 🔔 Advice for the Marketing department in designing promotion campaigns to increase Topup's monthly performance
+### 📋 SURVEY
+- Create a survey with a discount code to top up mobile phones for old MoMo customers about the Top-up service to find out why customers do not use the service again.
+### 🎯 Targeted Promotions for Young Adults
+- Focus on the young user group (23-27 years old) with attractive promotional campaigns such as higher cashback, gifts when depositing, or special discounts on cooperative services.
+### ⚧️ Gender-Specific Campaigns
+- Design promotional programs suitable for men, because the rate of men using the service is higher. For example, promotions related to sports, technology or consumer products that are popular with men.
+### 🏙️ Location-Based Incentives
+- Provide special incentives for users in other regions (outside HCM and Hanoi) to stimulate them to deposit more.
+### 👫 Referral and Loyalty Programs
+- Create refer-a-friend and loyalty programs to encourage existing users to refer friends and deposit regularly.
+
+## 🏇 Compete for cashback with other e-wallets
+### 🚨 Momo is facing stiff competition from a host of other e-wallets that have deep mobile card cashback schemes for users. In response, MoMo is considering deducting a part of revenue to increase cashback for users in all Telco merchants.
+- Suppose that users currently earn a flat 1% cash-back on their spending amount. The proposed change is as follows:
+- | Merchant | % cashback (current) | % cashback (proposal) |
+| :--- | :--- | :--- | 
+| Viettel | 1 | 2 |
+| Mobifone | 1 | 2.5 |
+| Vinaphone | 1 | 3 |
+| Vietnamobile | 1 | 3 |
+| Gmobile | 1 | 3 |
+
+    - How does this affect the service (Comment from many perspectives)? Do you agree with this option?
+       - Analysis from Multiple Perspectives
+
+
 
 
 
