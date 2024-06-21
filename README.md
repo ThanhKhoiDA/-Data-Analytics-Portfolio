@@ -41,15 +41,15 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 - Used slicers and filters in Power BI to allow interactive exploration of the data.
 ## 💡 Observations and Insights
 ### 👨‍👩‍👧‍👦 User Demographics
- #### 🎂 Age Distribution
-- Users in the 23-27 age group account for the highest proportion (25.48%), followed by the 28-32 group (20.84%).
-- Age groups from 33-37 and 18-22 also account for a significant but lower portion.
-- This shows that the majority of MoMo users are of young working age and students.
-#### ⚧️ Gender Distribution
-- The proportion of men using the service is higher than that of women in all age groups, with the male group from 23-27 accounting for the highest proportion (15.15%).
+- **🎂 Age Distribution**
+    - Users in the 23-27 age group account for the highest proportion (25.48%), followed by the 28-32 group (20.84%).
+    - Age groups from 33-37 and 18-22 also account for a significant but lower portion.
+    - This shows that the majority of MoMo users are of young working age and students.
+- ** ⚧️ Gender Distribution**
+    - The proportion of men using the service is higher than that of women in all age groups, with the male group from 23-27 accounting for the highest proportion (15.15%).
 ### 📢 Transaction Behavior
-- #### 📺 Revenue by Merchant: Viettel leads in average monthly revenue (596,033 VND), followed by Mobifone and Vinaphone. Gmobile has the lowest revenue.
-- #### 🏡 Location-Based Transaction Amount: Users in other regions (besides HCMC and Hanoi) tend to spend more, especially the age group from 23-27. Meanwhile, HCMC and Hanoi have lower but still significant spending levels.
+- ** 📺 Revenue by Merchant:** Viettel leads in average monthly revenue (596,033 VND), followed by Mobifone and Vinaphone. Gmobile has the lowest revenue.
+- ** 🏡 Location-Based Transaction Amount:** Users in other regions (besides HCMC and Hanoi) tend to spend more, especially the age group from 23-27. Meanwhile, HCMC and Hanoi have lower but still significant spending levels.
 
 
 
