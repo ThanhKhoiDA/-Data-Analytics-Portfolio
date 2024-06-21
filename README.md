@@ -103,7 +103,7 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
   - **Market Reactions:**
       - **Competitive Response:** Competitors may increase their promotions, leading to a potential promotional war. MoMo needs to stay flexible in its business strategy to respond effectively.
 
-#### 👌 Do you agree with this option?
+### 👌 Do you agree with this option?
 - I agree only if this campaign is applied for a short period of time, long enough for momo to find out the reason why most current customers do not use the service again.
 - Once you have found the reason why customers do not use the service again. I recommend that momo stop this campaign and return to the original refund level.
 #### ⏲️ After a while, you can stop this refund offer and instead run other campaigns to both retain customers and optimize revenue such as:
