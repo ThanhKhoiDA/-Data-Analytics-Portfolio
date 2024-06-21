@@ -79,20 +79,20 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 
 - How does this affect the service (Comment from many perspectives)? Do you agree with this option?
 ###⚖️ Analysis from Multiple Perspectives
-1️⃣ User Perspective:
+###1️⃣ User Perspective:
   - **Positive Impact:**
       - **Increased Cashback Incentive:** Users gain more value per transaction, promoting more frequent use of MoMo's services, especially with high cashback providers like Vinaphone and Vietnamobile.
       - **Enhanced Customer Satisfaction:** Higher cashback improves user satisfaction, boosting retention and user experience.
  - **Negative Impact:**
       - **Short-Term Expectations:** Users may expect continued or increased cashback, potentially pressuring MoMo to maintain these offers.
-2️⃣ Financial Perspective:
+###2️⃣ Financial Perspective:
   - **Short-Term Revenue Loss:**
       - **Direct Cost:** Higher cashback rates reduce short-term profits as more revenue is returned to users.
       - **Budget Reallocation:** MoMo must carefully manage its budget to prevent negative impacts on other business activities.
   - **Long-Term Financial Gains:**
       - **Increased Transaction Volume:** Higher cashback rates can boost transaction numbers and total revenue from both existing and new users.
       - **Customer Retention and Acquisition:** Better retention and new customer acquisition can offset short-term revenue losses, leading to long-term profits.
-3️⃣ Competitive Perspective:
+###3️⃣ Competitive Perspective:
   - **Strengthened Competitive Position:**
       - **Market Differentiation:** Offering superior value through higher cashback can differentiate MoMo from competitors.
       - **Increased Market Share:** Higher cashback rates can attract users from other e-wallets, expanding MoMo's market share and strengthening its market position.
