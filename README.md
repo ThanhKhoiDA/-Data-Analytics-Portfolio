@@ -39,8 +39,12 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 - Create a layout of key metrics including "Total Amount", "Revenune", "Total Orders" in large sizes on the left side of the dashboard.
 - Developed various charts, graphs, and other visual representations (e.g., bar charts, pie charts, scatter plots) to illustrate findings.
 - Used slicers and filters in Power BI to allow interactive exploration of the data.
+- Dashboard OVERVIEW
+![image](https://github.com/ThanhKhoiDA/Data-Analytics-Portfolio/assets/173327129/31628e17-f9df-4065-ab07-ad6a6724061a)
 - Dashboard TOP-UP PERFORMANCE
-  ![image1](https://github.com/ThanhKhoiDA/Data-Analytics-Portfolio/assets/173327129/bff8564b-f0c4-4dfe-a26a-16dd7dfac241)
+![image1](https://github.com/ThanhKhoiDA/Data-Analytics-Portfolio/assets/173327129/bff8564b-f0c4-4dfe-a26a-16dd7dfac241)
+- Dashboard DEMOGRAPHICS & TRANSACTIONS
+![image](https://github.com/ThanhKhoiDA/Data-Analytics-Portfolio/assets/173327129/bc58c309-8244-4b42-b77b-e3e920db3a83)
 
 ## 💡 Observations and Insights
 ### 👨‍👩‍👧‍👦 User Demographics
