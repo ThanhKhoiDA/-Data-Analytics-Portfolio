@@ -113,7 +113,32 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 
 #### ☑️ Because the race for refund rates between e-wallet providers will lead to an endless promotion war and businesses will suffer heavy losses. This is only suitable for the early stages of business development when getting acquainted with the market and approaching customers.
 
-#### 📋 A typical example is that Techcombank has a 1% cashback offer on all card transactions applicable to all card types and all customers. Up to now, Techcombank has eliminated this incentive and replaced it with other new incentives to both retain customers and optimize its profits.
+#### 📋 A typical example is that Techcombank has a 1% cashback offer on all card transactions applicable to all card types and all customers long ago. Up to now, Techcombank has eliminated this incentive and replaced it with other new incentives to both retain customers and optimize its profits.
+
+## 💡 What other Topup development strategy ideas do you have for MoMo?
+### 1️⃣ Loyalty Programs
+- Develop a tiered loyalty program offering increasing benefits based on user activity levels.
+### 2️⃣ Partnerships with Merchants
+- Partner with retailers and services to provide exclusive promotions when recharging via MoMo.
+
+For example: discounts when shopping at partner stores, or special offers when using dining and entertainment services.
+### 3️⃣ Subscription Models
+- Provide recurring recharge service packages with benefits such as higher cashback, priority service, or bonus points when registering for the package.
+### 4️⃣ Educational Campaigns
+- Strengthen educational campaigns about the benefits of using e-wallets, especially targeting users who are new to technology. Organize online or offline seminars to introduce and instruct on how to use MoMo.
+### 5️⃣ Gamification
+- Áp dụng yếu tố game hóa vào ứng dụng để tăng sự tương tác của người dùng. Ví dụ: các thử thách hàng ngày/tuần với phần thưởng khi hoàn thành, hoặc chương trình tích điểm đổi quà.
+### 6️⃣ User Feedback Loop
+- Implement a feedback mechanism to gather user input on desired features and improvements.
+### 7️⃣ Data-Driven Personalization
+- Leverage user data to provide personalized recommendations and promotions.
+### 8️⃣ Enhanced User Experience
+- Focus on improving the user interface and experience to make top-ups more seamless and convenient.
+
+
+
+
+
 
 
 
