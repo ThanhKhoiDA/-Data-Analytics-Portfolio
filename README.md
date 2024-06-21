@@ -60,7 +60,7 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 - **🔠User Type:** The proportion of "NEW" accounts for 99.27% ​​of the total. Customer only used it once and has not used it again.
    - ⚠️ **THE SERVICE MAY HAVE ERRORS, BAD POINTS, OR POOR CUSTOMER CARE DURING USE** 
 
-## 🔔 Advice for the Marketing department in designing promotion campaigns to increase Topup's monthly performance
+## 🔔 Marketing Tips for Boosting Topup's Monthly Performance
 ### 📋 SURVEY
 - Create a survey with a discount code to top up mobile phones for old MoMo customers about the Top-up service to find out why customers do not use the service again.
 ### 🎯 Targeted Promotions for Young Adults
@@ -115,14 +115,20 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
 ### 👌 Do you agree with this option?
 - I agree only if this campaign is applied for a short period of time, long enough for momo to find out the reason why most current customers do not use the service again.
 - Once you have found the reason why customers do not use the service again. I recommend that momo stop this campaign and return to the original refund level.
-#### ⏲️ After a while, you can stop this refund offer and instead run other campaigns to both retain customers and optimize revenue such as:
+
+
+⏲️ After a while, you can stop this refund offer and instead run other campaigns to both retain customers and optimize revenue such as:
 - Accumulate points to redeem phone recharge card codes
 - Introduction to receive phone recharge card code
 - Refund for premium customers,...
 
-#### ☑️ Because the race for refund rates between e-wallet providers will lead to an endless promotion war and businesses will suffer heavy losses. This is only suitable for the early stages of business development when getting acquainted with the market and approaching customers.
 
-#### 📋 A typical example is that Techcombank has a 1% cashback offer on all card transactions applicable to all card types and all customers long ago. Up to now, Techcombank has eliminated this incentive and replaced it with other new incentives to both retain customers and optimize its profits.
+ 
+ ☑️ Because the race for refund rates between e-wallet providers will lead to an endless promotion war and businesses will suffer heavy losses. This is only suitable for the early stages of business development when getting acquainted with the market and approaching customers.
+
+
+ 
+ 📋 A typical example is that Techcombank has a 1% cashback offer on all card transactions applicable to all card types and all customers long ago. Up to now, Techcombank has eliminated this incentive and replaced it with other new incentives to both retain customers and optimize its profits.
 
 ## 💡 What other Topup development strategy ideas do you have for MoMo?
 ### 1️⃣ Loyalty Programs
