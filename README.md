@@ -102,6 +102,19 @@ The dataset used in this project is obtained from ["MoMo Talent 2024" competitio
   - **Market Reactions:**
       - **Competitive Response:** Competitors may increase their promotions, leading to a potential promotional war. MoMo needs to stay flexible in its business strategy to respond effectively.
 
+### 👌 Do you agree with this option?
+- I agree only if this campaign is applied for a short period of time, long enough for momo to find out the reason why most current customers do not use the service again.
+- Once you have found the reason why customers do not use the service again. I recommend that momo stop this campaign and return to the original refund level.
+### ⏲️ After a while, you can stop this refund offer and instead run other campaigns to both retain customers and optimize revenue such as:
+- Accumulate points to redeem phone recharge card codes
+- Introduction to receive phone recharge card code
+- Refund for premium customers,...
+
+### ☑️ Because the race for refund rates between e-wallet providers will lead to an endless promotion war and businesses will suffer heavy losses. This is only suitable for the early stages of business development when getting acquainted with the market and approaching customers.
+
+### 📋 A typical example is that Techcombank has a 1% cashback offer on all card transactions applicable to all card types and all customers. Up to now, Techcombank has eliminated this incentive and replaced it with other new incentives to both retain customers and optimize its profits.
+
+
 
 
 
